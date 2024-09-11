@@ -1,0 +1,4 @@
+src_dir: "~/DeepUrban/DeepScenario"
+output_dir: "~/DeepUrban/deepurban_scenarios"
+interpolate: True
+create_maps: True

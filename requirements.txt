@@ -1,0 +1,4 @@
+-e ./include/ds_utils
+shapely==2.0.0
+protobuf==3.19.4
+commonroad-scenario-designer==0.8.2
