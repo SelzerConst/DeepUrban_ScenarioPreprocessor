@@ -1,6 +1,6 @@
 ## Packaged Utils from DeepScenario
 
-Package needed to create DeepUrban Scenarios from the DeepUrban Data
+Package needed to create DeepUrban Scenarios from the DeepScenario Data
 
 Package installation
 ```sh
